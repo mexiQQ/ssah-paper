@@ -5,7 +5,7 @@ function TitleSection() {
     <section className="text-center py-12 bg-gray-50">
       {/* Title */}
       <h1 className="text-4xl font-bold text-gray-800 leading-tight">
-        (Superficial) Safety Alignment Hypothesis
+        Superficial Safety Alignment Hypothesis
       </h1>
 
       <section className="text-center py-8 bg-gray-50">
@@ -30,7 +30,7 @@ function TitleSection() {
       {/* Action Buttons */}
       <div className="mt-6 flex justify-center space-x-4">
         <a
-          href="https://arxiv.org/html/2410.10862v1#:~:text=To%20bridge%20the%20gap%2C%20we,refusal%20mechanism%20with%20multiple%20reserved"
+          href="https://arxiv.org/abs/2410.10862"
           className="px-6 py-2 text-sm font-medium text-white bg-gray-800 rounded-md shadow hover:bg-gray-700"
         >
           Paper
