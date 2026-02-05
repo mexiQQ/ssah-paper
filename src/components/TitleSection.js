@@ -28,7 +28,7 @@ function TitleSection() {
     </section>
 
       {/* Action Buttons */}
-      <div className="mt-6 flex justify-center space-x-4">
+      <div className="flex justify-center space-x-4">
         <a
           href="https://arxiv.org/abs/2410.10862"
           className="px-6 py-2 text-sm font-medium text-white bg-gray-800 rounded-md shadow hover:bg-gray-700"
@@ -42,6 +42,7 @@ function TitleSection() {
           Code
         </a>
       </div>
+      <div className='mt-5 text-gray-600 text-sm'>Accepted by ICLR 2026</div>
     </section>
   );
 }
