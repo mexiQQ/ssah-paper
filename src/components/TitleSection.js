@@ -36,7 +36,7 @@ function TitleSection() {
           Paper
         </a>
         <a
-          href="#"
+          href="https://github.com/JEKimLab/SSAH"
           className="px-6 py-2 text-sm font-medium text-gray-800 border border-gray-800 rounded-md shadow hover:bg-gray-100"
         >
           Code
